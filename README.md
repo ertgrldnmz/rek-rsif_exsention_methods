@@ -1,5 +1,5 @@
 # Extension ve Rekürsif Metotlar
-###Extension(Genişletilmiş) Metot Kullanımı
+### Extension(Genişletilmiş) Metot Kullanımı
 
 > Extension Metotların kelime anlamı genişletilebilir metotlardır. C# 3.0 ile hayatımıza giren, aynı kodu defalarca yazmak yerine, bir kere yazıp her yerden erişebileceğimiz kolay kullanımı olan metotlardır.
 
